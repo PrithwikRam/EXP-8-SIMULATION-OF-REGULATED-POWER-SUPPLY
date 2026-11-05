@@ -32,6 +32,8 @@ Procedure
 •	Load voltage 
 ________________________________________
 Observation
+<img width="1907" height="995" alt="ED Practical 2 " src="https://github.com/user-attachments/assets/a1e201a8-2ca1-48d1-85e8-8680595b6fa4" />
+
 
 
 
