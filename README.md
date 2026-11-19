@@ -34,10 +34,12 @@ Procedure
 
  CIRCUIT DIAGRAM
 
- <img width="1907" height="1006" alt="ED Practical" src="https://github.com/user-attachments/assets/40ce02a5-1506-4e46-81e7-1104e98b61e2" />
+ <img width="1726" height="310" alt="image" src="https://github.com/user-attachments/assets/ad6c0b33-8a2d-4e63-91ba-715bcbf90070" />
+
 
  GRAPH
- <img width="1907" height="1006" alt="ED Practical" src="https://github.com/user-attachments/assets/e5bc80a9-60e6-4ab0-90d6-886f30b1f994" />
+ <img width="1737" height="370" alt="image" src="https://github.com/user-attachments/assets/1c81bc4a-5afc-47af-865d-753ce8f881cb" />
+
 
 
 ________________________________________
